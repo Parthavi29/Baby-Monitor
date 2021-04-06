@@ -1,0 +1,25 @@
+body {
+    background: rgb(229, 49, 112);
+    background: linear-gradient(90deg, rgba(229, 49, 112, 1) 0%, rgba(242, 95, 76, 1) 35%, rgba(255, 137, 6, 1) 100%);
+    font-family: 'Dancing Script', cursive;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    ;
+    border-radius: 20px;
+}
+
+#status,
+#status1 {
+    font-size: 18px;
+}
+
+canvas {
+    border-width: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px;
+    margin-top: 30px;
+}
